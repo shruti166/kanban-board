@@ -117,3 +117,28 @@
   height: 3rem;
   width: 6rem;
 }
+
+/* ticket Design */
+
+.main-cont {
+  display: flex;
+  gap: 2rem;
+  justify-content: center;
+  margin-top: 2rem;
+}
+
+.ticket-cont {
+  height: 12rem;
+  width: 15rem;
+  background-color: coral;
+}
+
+.ticket-color {
+  background-color: black;
+  height: 1.5rem;
+}
+
+.ticket-id {
+  background-color: yellow;
+  height: 2rem;
+}
